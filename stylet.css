@@ -110,7 +110,7 @@ body {
     margin: auto;
     z-index: 40;
   }
-  header .holder .header-text h1 {
+  header .holder .header-text h1{
     font-size: 6vw;
     line-height: 1;
     margin: 10px 0;
@@ -152,7 +152,7 @@ body {
     z-index: 20;
     margin: 70px auto;
   }
-  main .find-out-more h2 {
+  main .find-out-more h1 {
     font-size: 4.5vw;
     width: 53%;
     line-height: 1;
